@@ -1,12 +1,15 @@
 # LITA_Class_Documentation
 
  ### Project Overview
+ ---
 This Data Analysis Project aims to document my Progressive Learning Process on how to utilize Miscrosoft Excel, Power BI and SQL- Structured Querry Language, to transform  Raw Unstructured data to a Structured data suitable for Actionable and Insightful Decision Making.  This enables us to tell compelling stories around the data also.
 
 ### Data Sources
+---
 The primary source of Data used here are csv Datas and these are open source data that can be freely downloaded from online sources like kaggle or any other repository sites.
 
 ### Tools Used
+---
 - MIcrosoft Excel for: [Download Here](https://www.microsoft.com)
    1. Data Cleaning
    2. Analysis 
@@ -21,13 +24,27 @@ The primary source of Data used here are csv Datas and these are open source dat
   2. Visualization on Dataset etc.
  
   ### Data Cleaning and  preparation
+  ---
   From the inception of Data Cleaning and Preparation, we performed the following actions;
    1. Data Loading and Inspection
    2. Handling missing Variables
    3. Data Cleaning and formatting
  
   ### Exploratory Data Analysis
-  EDA involved the exploring of Data to answer some questions
+  ---
+  EDA involved the exploring of Data to answer some questions about such Data as:
+  - what is
+  - what is
+  - what is
+
+  ### Data Analysis
+  ---
+  This is where we have some basic lines of code or queries or even some of he DAX expressions used during the analysis
+
+
+  ### Data Visualization
+  ---
+  
     
  
 
