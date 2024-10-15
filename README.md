@@ -7,7 +7,7 @@ This Data Analysis Project aims to document my Progressive Learning Process on h
 The primary source of Data used here are csv Datas and these are open source data that can be freely downloaded from online sources like kaggle or any other repository sites.
 
 ### Tools Used
-- MIcrosoft Excel for: [Download Here]. (https://www.microsoft.com)
+- MIcrosoft Excel for: [Download Here](https://www.microsoft.com)
    1. Data Cleaning
    2. Analysis 
    3. Visualization
@@ -18,5 +18,16 @@ The primary source of Data used here are csv Datas and these are open source dat
 - Github for Portfolio Building
 - Power BI to:
   1. Create Report
-  2. Visualization on Dataset
+  2. Visualization on Dataset etc.
+ 
+  ### Data Cleaning and  preparation
+  From the inception of Data Cleaning and Preparation, we performed the following actions;
+   1. Data Loading and Inspection
+   2. Handling missing Variables
+   3. Data Cleaning and formatting
+ 
+  ### Exploratory Data Analysis
+  EDA involved the exploring of Data to answer some questions
+    
+ 
 
