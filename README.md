@@ -56,8 +56,13 @@ The primary source of Data used here are csv Datas and these are open source dat
   ---
   This is where we have some basic lines of code or queries or even some of he DAX expressions used during the analysis
 
-  ```DAX
+  ```EXCEL
   =AVERAGEIF(C8:C27,C21,D8:D27)		
+```
+
+```SQL
+SELECT FROM * TABLE1
+WHERE CONDITION = TRUE
 ```
 
   ### Data Visualization
