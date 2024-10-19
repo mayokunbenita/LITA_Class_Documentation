@@ -69,5 +69,6 @@ WHERE CONDITION = TRUE
   ---
   
     
- 
+ [Pivot Tables File (1).xlsx](https://github.com/user-attachments/files/17447195/Pivot.Tables.File.1.xlsx)
+
 
