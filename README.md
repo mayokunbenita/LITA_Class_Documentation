@@ -61,7 +61,7 @@ The primary source of Data used here are csv Datas and these are open source dat
 ```
 
 ```SQL
-SELECT FROM * TABLE1
+SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
 
