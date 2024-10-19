@@ -28,7 +28,7 @@ The primary source of Data used here are csv Datas and these are open source dat
 - MIcrosoft Excel for: [Download Here](https://www.microsoft.com)
    1. Data Cleaning
    2. Analysis 
-   3. Visualization
+   3. Data Visualization
 - SQL - Structured Query Language for:
   1. Storing Data
   2. Retrieving Data 
@@ -48,14 +48,17 @@ The primary source of Data used here are csv Datas and these are open source dat
   ### Exploratory Data Analysis
   ---
   EDA involved the exploring of Data to answer some questions about such Data as:
-  - what is
-  - what is
-  - what is
+  - what are the top selling products
+  - what region gives the highest revenue
+  - which are the overall sales trend
 
   ### Data Analysis
   ---
   This is where we have some basic lines of code or queries or even some of he DAX expressions used during the analysis
 
+  ```DAX
+  =AVERAGEIF(C8:C27,C21,D8:D27)		
+```
 
   ### Data Visualization
   ---
